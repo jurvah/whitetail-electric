@@ -1,0 +1,3 @@
+# Indexing blocked until placeholders are replaced with real business details.
+User-agent: *
+Disallow: /
